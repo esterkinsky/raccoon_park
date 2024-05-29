@@ -3,7 +3,7 @@ import HomePage from "./pages/homePage/HomePage";
 import FeedBackPage from "./pages/feedBackPage/FeedBackPage";
 
 function App() {
-    const [showComponent, setshowComponent] = useState("FeedBack");
+    const [showComponent, setshowComponent] = useState("Home");
 
     return (
         <div className="App">
