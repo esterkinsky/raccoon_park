@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "Raleway";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+	--black: #171A1A;
+	--gray: #333333;
+	--gray-dark: #202328;
+  --gray-light: #6F7A8B;
+	--orange: #F88500;
+  --white: #ffffff;
+	--font-family: "Raleway";
+}

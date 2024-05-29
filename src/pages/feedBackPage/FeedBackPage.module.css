@@ -1,0 +1,168 @@
+.common_block {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: 1fr 0.1fr;
+    grid-template-rows: 1fr;
+    min-height: 98px;
+}
+
+.buttons {
+    position: center;
+    display: flex;
+    justify-content: center;
+    padding: 26px;
+}
+
+.menu_btn {
+    background: none;
+    color: var(--gray-dark);
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: "Raleway";
+}
+
+.menu_btn:hover {
+    background-color: var(--orange);
+    color: var(--white);
+    cursor: pointer;
+    border-radius: 0px 10px 0px 10px;
+}
+
+.contacts {
+    position: relative;
+    justify-content: right;
+    background-image: url("../../assets/soc-icons-inside.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-width: 134px;
+    right: 75px;
+}
+
+.form_block {
+    display: grid;
+    grid-template-rows: 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+.desc {
+    font-size: 24px;
+    align-self: center;
+    font-weight: 900;
+    color: #333333;
+    justify-self: center;
+}
+
+.info {
+    font-size: 20px;
+    line-height: 34px;
+    align-self: center;
+    color: #999999;
+    justify-self: center;
+    text-align: center;
+    margin: 15px;
+}
+
+.form {
+    display: grid;
+    grid-template-rows: 1fr;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.name,
+.number,
+.text {
+    font-size: 15px;
+    font-family: "Raleway";
+    padding: 9px 15px;
+    outline-color: #e4e6e8;
+}
+
+.name:focus,
+.number:focus,
+.text:focus {
+    outline-color: var(--orange);
+}
+
+.text {
+    resize: none;
+    width: 340px;
+    height: 140px;
+}
+
+.btn {
+    margin: 5px;
+    justify-self: center;
+    background-color: var(--orange);
+    border-radius: 0 5px 0 5px;
+    padding: 12px 30px 12px 30px;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--white);
+    border: none;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.map_zone {
+    background-color: #202328;
+    display: grid;
+    grid-template-rows: 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+.adress {
+    display: grid;
+    grid-template-rows: 1fr;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.adr_title {
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 34.05px;
+    color: var(--white);
+}
+
+.adr {
+    font-size: 14px;
+    line-height: 18.78px;
+    color: #6f7a8b;
+}
+
+.adr_num {
+    font-size: 28px;
+    line-height: 46.2px;
+    font-family: Courier, monospace;
+    letter-spacing: -3.5px;
+    color: var(--white);
+}
+
+.map {
+height: 510px;
+width: 850px;
+border-radius: 3px;
+padding: 20px;
+margin-bottom: 10px;
+}
+
+.footer {
+    background-color: #171a1a;
+    display: grid;
+    grid-template-columns: 1fr 0.4fr 0.4fr 1fr;
+    padding: 20px 70px;
+}

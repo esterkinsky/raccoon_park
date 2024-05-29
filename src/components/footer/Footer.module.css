@@ -1,0 +1,94 @@
+.foot_1 {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    align-self: baseline;
+    justify-self: baseline;
+}
+
+.foot_img {
+    background-image: url(../../assets/WhatsApp_Image_2022-\ 1.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-width: 120px;
+    min-height: 120px;
+    justify-self: baseline;
+}
+
+.foot_main_desc {
+    font-weight: 800;
+    color: var(--white);
+    font-size: 18px;
+    margin: 15px 0;
+}
+
+.foot_desc {
+    font-size: 13px;
+    color: var(--white);
+    line-height: 22.1px;
+}
+
+.foot_2,
+.foot_3,
+.foot_4 {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    align-self: start;
+    justify-self: center;
+    color: var(--white);
+    margin: 30px 0;
+}
+
+.foot_decor {
+    background-image: url(../../assets/decoration.svg);
+    background-repeat: no-repeat;
+    min-width: 25px;
+    min-height: 3px;
+}
+
+.foot_list_item {
+    font-size: 14px;
+    line-height: 16.44px;
+    margin: 20px 0;
+}
+
+.foot_list_item:hover {
+    color: var(--orange);
+    text-decoration: underline var(--orange) 1px;
+    text-underline-offset: 3px;
+    cursor: pointer;
+}
+
+.foot_list_item_desc {
+    font-size: 13px;
+    line-height: 22.1px;
+}
+
+.soc_seti {
+    display: grid;
+    grid-template-columns: 40px 40px 40px 40px;
+    grid-template-rows: 40px;
+    min-height: 40px;
+    gap: 10px;
+}
+
+.inst {
+    background-image: url(../../assets/instagram.svg);
+    background-repeat: no-repeat;
+}
+
+.vk {
+    background-image: url(../../assets/vk.svg);
+    background-repeat: no-repeat;
+}
+
+.fb {
+    background-image: url(../../assets/fb.svg);
+    background-repeat: no-repeat;
+}
+
+.tw {
+    background-image: url(../../assets/tw.svg);
+    background-repeat: no-repeat;
+}
