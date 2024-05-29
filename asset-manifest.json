@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/raccoon_park/static/css/main.5e3f7919.css",
+    "main.js": "/raccoon_park/static/js/main.5d8f6195.js",
+    "static/media/place2.svg": "/raccoon_park/static/media/place2.718379698da5d8f1ceff.svg",
+    "static/media/place1.svg": "/raccoon_park/static/media/place1.abb93aebe79e1a4c68ab.svg",
+    "static/media/enot-malysh-detenysh-palka-les 1.svg": "/raccoon_park/static/media/enot-malysh-detenysh-palka-les 1.f08be5b5e75a5df48848.svg",
+    "static/media/KIcThQUSHGM 1.svg": "/raccoon_park/static/media/KIcThQUSHGM 1.236dbeff1ec4056f0498.svg",
+    "static/media/WhatsApp_Image_2022- 1.svg": "/raccoon_park/static/media/WhatsApp_Image_2022- 1.bcd308104cbbe67372d0.svg",
+    "static/media/place3.svg": "/raccoon_park/static/media/place3.2cbead7f1fd2c9d6d756.svg",
+    "static/media/soc-icons.svg": "/raccoon_park/static/media/soc-icons.3dd87e28c126b98d7534.svg",
+    "static/media/soc-icons-inside.svg": "/raccoon_park/static/media/soc-icons-inside.0cb104e6419a559f9e84.svg",
+    "static/media/wood-cut.svg": "/raccoon_park/static/media/wood-cut.13f6b89871a15ab9fc33.svg",
+    "static/media/eco.svg": "/raccoon_park/static/media/eco.5997f5d47058b2758b95.svg",
+    "static/media/instagram.svg": "/raccoon_park/static/media/instagram.32fbc10092062482d4f2.svg",
+    "static/media/vk.svg": "/raccoon_park/static/media/vk.d255b571acc4db3a8b49.svg",
+    "static/media/tw.svg": "/raccoon_park/static/media/tw.3ffca20fc61dc84fe99d.svg",
+    "index.html": "/raccoon_park/index.html",
+    "static/media/fb.svg": "/raccoon_park/static/media/fb.c87be96ac5b69539e2df.svg",
+    "static/media/dot-decor.svg": "/raccoon_park/static/media/dot-decor.0be2db215eb0bffb1110.svg",
+    "static/media/dot-decor_disabled.svg": "/raccoon_park/static/media/dot-decor_disabled.9b3721657fa54f8bb8ed.svg",
+    "static/media/decoration.svg": "/raccoon_park/static/media/decoration.ff94c95b03ee29630b5b.svg",
+    "main.5e3f7919.css.map": "/raccoon_park/static/css/main.5e3f7919.css.map",
+    "main.5d8f6195.js.map": "/raccoon_park/static/js/main.5d8f6195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3f7919.css",
+    "static/js/main.5d8f6195.js"
+  ]
+}
