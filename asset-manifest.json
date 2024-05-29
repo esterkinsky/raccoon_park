@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/raccoon_park/static/css/main.5e3f7919.css",
-    "main.js": "/raccoon_park/static/js/main.5d8f6195.js",
+    "main.js": "/raccoon_park/static/js/main.c14fb976.js",
     "static/media/place2.svg": "/raccoon_park/static/media/place2.718379698da5d8f1ceff.svg",
     "static/media/place1.svg": "/raccoon_park/static/media/place1.abb93aebe79e1a4c68ab.svg",
     "static/media/enot-malysh-detenysh-palka-les 1.svg": "/raccoon_park/static/media/enot-malysh-detenysh-palka-les 1.f08be5b5e75a5df48848.svg",
@@ -21,10 +21,10 @@
     "static/media/dot-decor_disabled.svg": "/raccoon_park/static/media/dot-decor_disabled.9b3721657fa54f8bb8ed.svg",
     "static/media/decoration.svg": "/raccoon_park/static/media/decoration.ff94c95b03ee29630b5b.svg",
     "main.5e3f7919.css.map": "/raccoon_park/static/css/main.5e3f7919.css.map",
-    "main.5d8f6195.js.map": "/raccoon_park/static/js/main.5d8f6195.js.map"
+    "main.c14fb976.js.map": "/raccoon_park/static/js/main.c14fb976.js.map"
   },
   "entrypoints": [
     "static/css/main.5e3f7919.css",
-    "static/js/main.5d8f6195.js"
+    "static/js/main.c14fb976.js"
   ]
 }
